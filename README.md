@@ -1,2 +1,2 @@
 # Flashcard Generator
-Node app to demonstrate Prototype Concepts
+Node app to demonstrate Contructor concepts
